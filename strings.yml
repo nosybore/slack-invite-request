@@ -2,23 +2,21 @@
 # -
 # Configure the strings below however suits your needs
 ---
-title: Slack Invite Request Demo
+title: Wichita Enlightened Slack Invite Request
 main:
   header:
     blurb: "Join us on Slack!"
     detail:
-      "... and help us bring down the Resistance! First we just need to verify
+      "... and help us save the world from the Resistance their N'Zeer masters! First we just need to verify
       some information from you and then we'll get you started."
     subtext:
       "We look forward to seeing you there."
   about:
     team:
-      name: "Enlightened Demo"
-      link: "https://enlightened.slack.com"
+      name: "Wichita Enlightened"
+      link: "https://sites.google.com/site/ictfrogs/"
       description:
-        "This is just a SIR demo. Please feel free to send an application (we
-        enjoy reading your comments), but no invites will be sent out as a
-        result."
+        "Keepers of the Light"
 apply:
   # Displayed at the top of the page
   header:
